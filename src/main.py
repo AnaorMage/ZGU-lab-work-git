@@ -1,4 +1,4 @@
-print("Hello, World!")
+print("Hello, Git Conflict!")
 
 def add_numbers(a, b):
     return a + b
